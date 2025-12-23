@@ -15,7 +15,7 @@ Counting the number of digits in a given number.
 ```bash
     Example: n = 1234
     output: 4
-
+```
 
 
 ## 2. Reverse
